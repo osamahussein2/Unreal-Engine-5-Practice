@@ -11,6 +11,7 @@
     <None Include="..\..\Source\UnrealPracticeEditor.Target.cs">
       <Filter>Source</Filter>
     </None>
+    <None Include="..\..\.vsconfig" />
     <Filter Include="Config">
       <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
     </Filter>
@@ -37,6 +38,30 @@
     </ClCompile>
     <ClInclude Include="..\..\Source\UnrealPractice\UnrealPractice.h">
       <Filter>Source\UnrealPractice</Filter>
+    </ClInclude>
+    <Filter Include="Source\UnrealPractice\Private">
+      <UniqueIdentifier>{61FF292A-E1A6-3D41-AC95-1C4D6B22FAC0}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\UnrealPractice\Private\GameCharacter.cpp">
+      <Filter>Source\UnrealPractice\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\UnrealPractice\Private\JumpActor.cpp">
+      <Filter>Source\UnrealPractice\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\UnrealPractice\Private\PracticeGameMode.cpp">
+      <Filter>Source\UnrealPractice\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\UnrealPractice\Public">
+      <UniqueIdentifier>{F1830EDA-044A-3363-96BB-89863FB7410A}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\UnrealPractice\Public\GameCharacter.h">
+      <Filter>Source\UnrealPractice\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\UnrealPractice\Public\JumpActor.h">
+      <Filter>Source\UnrealPractice\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\UnrealPractice\Public\PracticeGameMode.h">
+      <Filter>Source\UnrealPractice\Public</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
