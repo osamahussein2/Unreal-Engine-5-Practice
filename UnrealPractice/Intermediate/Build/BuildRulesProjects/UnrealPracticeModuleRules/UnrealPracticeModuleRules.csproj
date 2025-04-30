@@ -16,6 +16,7 @@
   <ItemGroup>
   <Compile Include="..\..\..\..\Source\UnrealPractice.Target.cs"><Link>Source\UnrealPractice.Target.cs</Link></Compile>
   <Compile Include="..\..\..\..\Source\UnrealPracticeEditor.Target.cs"><Link>Source\UnrealPracticeEditor.Target.cs</Link></Compile>
+  <Compile Include="..\..\..\..\Source\UnrealPracticeEditor\UnrealPracticeEditor.Build.cs"><Link>Source\UnrealPracticeEditor\UnrealPracticeEditor.Build.cs</Link></Compile>
   <Compile Include="..\..\..\..\Source\UnrealPractice\UnrealPractice.Build.cs"><Link>Source\UnrealPractice\UnrealPractice.Build.cs</Link></Compile>
   </ItemGroup>
 </Project>

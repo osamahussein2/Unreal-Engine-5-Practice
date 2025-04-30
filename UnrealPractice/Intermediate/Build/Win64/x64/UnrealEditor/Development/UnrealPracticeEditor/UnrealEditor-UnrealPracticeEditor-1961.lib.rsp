@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-UnrealPracticeEditor-1961.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\osama\Downloads\Unreal-Engine-5-Practice\UnrealPractice\Intermediate\Build\Win64\x64\UnrealPracticeEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"C:\Users\osama\Downloads\Unreal-Engine-5-Practice\UnrealPractice\Intermediate\Build\Win64\x64\UnrealEditor\Development\UnrealPracticeEditor\MoveComponentVisualizer.cpp.obj"
+"C:\Users\osama\Downloads\Unreal-Engine-5-Practice\UnrealPractice\Intermediate\Build\Win64\x64\UnrealEditor\Development\UnrealPracticeEditor\UnrealPracticeEditor.cpp.obj"
+"C:\Users\osama\Downloads\Unreal-Engine-5-Practice\UnrealPractice\Intermediate\Build\Win64\x64\UnrealEditor\Development\UnrealPracticeEditor\Default.rc2.res"
+/OUT:"C:\Users\osama\Downloads\Unreal-Engine-5-Practice\UnrealPractice\Intermediate\Build\Win64\x64\UnrealEditor\Development\UnrealPracticeEditor\UnrealEditor-UnrealPracticeEditor-1961.lib"

@@ -27,6 +27,24 @@
     <None Include="..\..\Config\DefaultInput.ini">
       <Filter>Config</Filter>
     </None>
+    <Filter Include="Source\UnrealPracticeEditor">
+      <UniqueIdentifier>{C0FE6619-7D08-3461-8F13-89810E66BFAB}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\UnrealPracticeEditor\MoveComponentVisualizer.cpp">
+      <Filter>Source\UnrealPracticeEditor</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UnrealPracticeEditor\MoveComponentVisualizer.h">
+      <Filter>Source\UnrealPracticeEditor</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\UnrealPracticeEditor\UnrealPracticeEditor.Build.cs">
+      <Filter>Source\UnrealPracticeEditor</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\UnrealPracticeEditor\UnrealPracticeEditor.cpp">
+      <Filter>Source\UnrealPracticeEditor</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UnrealPracticeEditor\UnrealPracticeEditor.h">
+      <Filter>Source\UnrealPracticeEditor</Filter>
+    </ClInclude>
     <Filter Include="Source\UnrealPractice">
       <UniqueIdentifier>{C9771631-FB9E-3323-9547-674ACA157AF4}</UniqueIdentifier>
     </Filter>

@@ -11,8 +11,15 @@
 			"AdditionalDependencies": [
 				"Engine"
 			]
+		},
+
+		{
+			"Name": "UnrealPracticeEditor",
+			"Type": "Editor",
+			"LoadingPhase": "PostEngineInit"
 		}
 	],
+
 	"Plugins": [
 		{
 			"Name": "ModelingToolsEditorMode",
