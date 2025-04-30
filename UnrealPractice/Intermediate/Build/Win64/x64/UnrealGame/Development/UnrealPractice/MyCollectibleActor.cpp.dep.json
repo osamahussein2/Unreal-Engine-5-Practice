@@ -1,0 +1,21 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\osama\\downloads\\unreal-engine-5-practice\\unrealpractice\\source\\unrealpractice\\private\\mycollectibleactor.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\osama\\downloads\\unreal-engine-5-practice\\unrealpractice\\intermediate\\build\\win64\\x64\\unrealpractice\\development\\engine\\sharedpch.engine.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\osama\\downloads\\unreal-engine-5-practice\\unrealpractice\\intermediate\\build\\win64\\x64\\unrealgame\\development\\unrealpractice\\definitions.unrealpractice.h",
+            "c:\\users\\osama\\downloads\\unreal-engine-5-practice\\unrealpractice\\source\\unrealpractice\\public\\mycollectibleactor.h",
+            "c:\\ue 5.4.4\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\components\\boxcomponent.h",
+            "c:\\ue 5.4.4\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\components\\shapecomponent.h",
+            "c:\\ue 5.4.4\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\uht\\shapecomponent.generated.h",
+            "c:\\ue 5.4.4\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\uht\\boxcomponent.generated.h",
+            "c:\\ue 5.4.4\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\gameframework\\defaultpawn.h",
+            "c:\\ue 5.4.4\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\uht\\defaultpawn.generated.h",
+            "c:\\users\\osama\\downloads\\unreal-engine-5-practice\\unrealpractice\\intermediate\\build\\win64\\unrealgame\\inc\\unrealpractice\\uht\\mycollectibleactor.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
