@@ -268,11 +268,15 @@
     <ClCompile Include="..\..\Source\UnrealPractice\Private\JumpActor.cpp">
       <AdditionalIncludeDirectories>$(ClCompile_AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ClCompile>
+    <ClCompile Include="..\..\Source\UnrealPractice\Private\MoveComponent.cpp">
+      <AdditionalIncludeDirectories>$(ClCompile_AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ClCompile>
     <ClCompile Include="..\..\Source\UnrealPractice\Private\PracticeGameMode.cpp">
       <AdditionalIncludeDirectories>$(ClCompile_AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ClCompile>
     <ClInclude Include="..\..\Source\UnrealPractice\Public\GameCharacter.h"/>
     <ClInclude Include="..\..\Source\UnrealPractice\Public\JumpActor.h"/>
+    <ClInclude Include="..\..\Source\UnrealPractice\Public\MoveComponent.h"/>
     <ClInclude Include="..\..\Source\UnrealPractice\Public\PracticeGameMode.h"/>
   </ItemGroup>
   <PropertyGroup>

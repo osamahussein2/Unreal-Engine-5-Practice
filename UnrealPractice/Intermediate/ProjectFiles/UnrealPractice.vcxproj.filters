@@ -48,6 +48,9 @@
     <ClCompile Include="..\..\Source\UnrealPractice\Private\JumpActor.cpp">
       <Filter>Source\UnrealPractice\Private</Filter>
     </ClCompile>
+    <ClCompile Include="..\..\Source\UnrealPractice\Private\MoveComponent.cpp">
+      <Filter>Source\UnrealPractice\Private</Filter>
+    </ClCompile>
     <ClCompile Include="..\..\Source\UnrealPractice\Private\PracticeGameMode.cpp">
       <Filter>Source\UnrealPractice\Private</Filter>
     </ClCompile>
@@ -58,6 +61,9 @@
       <Filter>Source\UnrealPractice\Public</Filter>
     </ClInclude>
     <ClInclude Include="..\..\Source\UnrealPractice\Public\JumpActor.h">
+      <Filter>Source\UnrealPractice\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\UnrealPractice\Public\MoveComponent.h">
       <Filter>Source\UnrealPractice\Public</Filter>
     </ClInclude>
     <ClInclude Include="..\..\Source\UnrealPractice\Public\PracticeGameMode.h">
