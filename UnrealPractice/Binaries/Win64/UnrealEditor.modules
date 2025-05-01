@@ -2,7 +2,7 @@
 	"BuildId": "33043543",
 	"Modules": 
 	{
-		"UnrealPractice": "UnrealEditor-UnrealPractice.dll",
+		"UnrealPractice": "UnrealEditor-UnrealPractice-7003.dll",
 		"UnrealPracticeEditor": "UnrealEditor-UnrealPracticeEditor.dll"
 	}
 }

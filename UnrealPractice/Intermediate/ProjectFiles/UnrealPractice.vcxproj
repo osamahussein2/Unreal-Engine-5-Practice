@@ -517,6 +517,10 @@
       <AdditionalIncludeDirectories>$(ClCompile_AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
       <ForcedIncludeFiles>$(ClCompile_ForcedIncludeFiles)</ForcedIncludeFiles>
     </ClCompile>
+    <ClCompile Include="..\..\Source\UnrealPractice\Private\SpawnBox.cpp">
+      <AdditionalIncludeDirectories>$(ClCompile_AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <ForcedIncludeFiles>$(ClCompile_ForcedIncludeFiles)</ForcedIncludeFiles>
+    </ClCompile>
     <ClCompile Include="..\..\Source\UnrealPractice\Private\XPPawn.cpp">
       <AdditionalIncludeDirectories>$(ClCompile_AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
       <ForcedIncludeFiles>$(ClCompile_ForcedIncludeFiles)</ForcedIncludeFiles>
@@ -527,6 +531,7 @@
     <ClInclude Include="..\..\Source\UnrealPractice\Public\MyCollectAcceptable.h"/>
     <ClInclude Include="..\..\Source\UnrealPractice\Public\MyCollectibleActor.h"/>
     <ClInclude Include="..\..\Source\UnrealPractice\Public\PracticeGameMode.h"/>
+    <ClInclude Include="..\..\Source\UnrealPractice\Public\SpawnBox.h"/>
     <ClInclude Include="..\..\Source\UnrealPractice\Public\XPPawn.h"/>
   </ItemGroup>
   <PropertyGroup>
