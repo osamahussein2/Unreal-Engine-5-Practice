@@ -505,6 +505,10 @@
       <AdditionalIncludeDirectories>$(ClCompile_AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
       <ForcedIncludeFiles>$(ClCompile_ForcedIncludeFiles)</ForcedIncludeFiles>
     </ClCompile>
+    <ClCompile Include="..\..\Source\UnrealPractice\Private\MyCollectAcceptable.cpp">
+      <AdditionalIncludeDirectories>$(ClCompile_AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <ForcedIncludeFiles>$(ClCompile_ForcedIncludeFiles)</ForcedIncludeFiles>
+    </ClCompile>
     <ClCompile Include="..\..\Source\UnrealPractice\Private\MyCollectibleActor.cpp">
       <AdditionalIncludeDirectories>$(ClCompile_AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
       <ForcedIncludeFiles>$(ClCompile_ForcedIncludeFiles)</ForcedIncludeFiles>
@@ -516,6 +520,7 @@
     <ClInclude Include="..\..\Source\UnrealPractice\Public\GameCharacter.h"/>
     <ClInclude Include="..\..\Source\UnrealPractice\Public\JumpActor.h"/>
     <ClInclude Include="..\..\Source\UnrealPractice\Public\MoveComponent.h"/>
+    <ClInclude Include="..\..\Source\UnrealPractice\Public\MyCollectAcceptable.h"/>
     <ClInclude Include="..\..\Source\UnrealPractice\Public\MyCollectibleActor.h"/>
     <ClInclude Include="..\..\Source\UnrealPractice\Public\PracticeGameMode.h"/>
   </ItemGroup>
