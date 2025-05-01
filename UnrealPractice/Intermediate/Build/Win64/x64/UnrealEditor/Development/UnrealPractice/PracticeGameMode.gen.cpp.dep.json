@@ -15,6 +15,10 @@
             "c:\\ue 5.4.4\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
             "c:\\ue 5.4.4\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\serverstatreplicator.generated.h",
             "c:\\ue 5.4.4\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemodebase.generated.h",
+            "c:\\ue 5.4.4\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\gameframework\\defaultpawn.h",
+            "c:\\ue 5.4.4\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\defaultpawn.generated.h",
+            "c:\\users\\osama\\downloads\\unreal-engine-5-practice\\unrealpractice\\source\\unrealpractice\\public\\xppawn.h",
+            "c:\\users\\osama\\downloads\\unreal-engine-5-practice\\unrealpractice\\intermediate\\build\\win64\\unrealeditor\\inc\\unrealpractice\\uht\\xppawn.generated.h",
             "c:\\users\\osama\\downloads\\unreal-engine-5-practice\\unrealpractice\\intermediate\\build\\win64\\unrealeditor\\inc\\unrealpractice\\uht\\practicegamemode.generated.h"
         ],
         "ImportedModules": [],

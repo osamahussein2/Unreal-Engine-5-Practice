@@ -5,5 +5,18 @@
 
 APracticeGameMode::APracticeGameMode()
 {
-	DefaultPawnClass = AGameCharacter::StaticClass();
+	//DefaultPawnClass = AGameCharacter::StaticClass();
+}
+
+void APracticeGameMode::InitGameState()
+{
+	Super::InitGameState();
+
+	// Check if no hard override is active
+	if (DefaultPawnClass == ADefaultPawn::StaticClass())
+	{
+		// Update to custom implementation
+		DefaultPawnClass = customXPPawnClass;
+	}
+
 }

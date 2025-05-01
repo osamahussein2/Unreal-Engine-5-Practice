@@ -78,6 +78,9 @@
     <ClCompile Include="..\..\Source\UnrealPractice\Private\PracticeGameMode.cpp">
       <Filter>Source\UnrealPractice\Private</Filter>
     </ClCompile>
+    <ClCompile Include="..\..\Source\UnrealPractice\Private\XPPawn.cpp">
+      <Filter>Source\UnrealPractice\Private</Filter>
+    </ClCompile>
     <Filter Include="Source\UnrealPractice\Public">
       <UniqueIdentifier>{F1830EDA-044A-3363-96BB-89863FB7410A}</UniqueIdentifier>
     </Filter>
@@ -97,6 +100,9 @@
       <Filter>Source\UnrealPractice\Public</Filter>
     </ClInclude>
     <ClInclude Include="..\..\Source\UnrealPractice\Public\PracticeGameMode.h">
+      <Filter>Source\UnrealPractice\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\UnrealPractice\Public\XPPawn.h">
       <Filter>Source\UnrealPractice\Public</Filter>
     </ClInclude>
   </ItemGroup>

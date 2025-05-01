@@ -4,7 +4,12 @@
 
 #include "CoreMinimal.h"
 #include "GameCharacter.h"
+
 #include "GameFramework/GameModeBase.h"
+#include "GameFramework/DefaultPawn.h"
+
+#include "UnrealPractice/Public/XPPawn.h"
+
 #include "PracticeGameMode.generated.h"
 
 /**
@@ -17,5 +22,10 @@ class UNREALPRACTICE_API APracticeGameMode : public AGameModeBase
 
 public:
 	APracticeGameMode();
+
+	void InitGameState() override;
 	
+private:
+	UPROPERTY(EditAnywhere, NoClear)
+	TSubclassOf<AXPPawn> customXPPawnClass = AXPPawn::StaticClass();
 };
