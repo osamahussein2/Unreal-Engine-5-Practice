@@ -8,7 +8,7 @@
 #include "GameFramework/GameModeBase.h"
 #include "GameFramework/DefaultPawn.h"
 
-#include "UnrealPractice/Public/XPPawn.h"
+#include "UnrealPractice/Public/XPCharacter.h"
 
 #include "PracticeGameMode.generated.h"
 
@@ -27,5 +27,5 @@ public:
 	
 private:
 	UPROPERTY(EditAnywhere, NoClear)
-	TSubclassOf<AXPPawn> customXPPawnClass = AXPPawn::StaticClass();
+	TSubclassOf<AXPCharacter> customXPCharacterClass = AXPCharacter::StaticClass();
 };

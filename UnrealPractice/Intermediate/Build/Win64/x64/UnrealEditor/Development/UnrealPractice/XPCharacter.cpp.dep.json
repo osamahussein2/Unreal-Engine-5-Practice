@@ -1,0 +1,29 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\osama\\downloads\\unreal-engine-5-practice\\unrealpractice\\source\\unrealpractice\\private\\xpcharacter.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\osama\\downloads\\unreal-engine-5-practice\\unrealpractice\\intermediate\\build\\win64\\x64\\unrealpracticeeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\osama\\downloads\\unreal-engine-5-practice\\unrealpractice\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\unrealpractice\\definitions.unrealpractice.h",
+            "c:\\users\\osama\\downloads\\unreal-engine-5-practice\\unrealpractice\\source\\unrealpractice\\public\\xpcharacter.h",
+            "c:\\ue 5.4.4\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\gameframework\\character.h",
+            "c:\\ue 5.4.4\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\gameframework\\charactermovementreplication.h",
+            "c:\\ue 5.4.4\\ue_5.4\\engine\\source\\runtime\\experimental\\iris\\core\\public\\iris\\serialization\\irisobjectreferencepackagemap.h",
+            "c:\\ue 5.4.4\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\iriscore\\uht\\irisobjectreferencepackagemap.generated.h",
+            "c:\\ue 5.4.4\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\charactermovementreplication.generated.h",
+            "c:\\ue 5.4.4\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\gameframework\\rootmotionsource.h",
+            "c:\\ue 5.4.4\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\rootmotionsource.generated.h",
+            "c:\\ue 5.4.4\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\character.generated.h",
+            "c:\\ue 5.4.4\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\camera\\cameracomponent.h",
+            "c:\\ue 5.4.4\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\cameracomponent.generated.h",
+            "c:\\ue 5.4.4\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\components\\capsulecomponent.h",
+            "c:\\ue 5.4.4\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\components\\shapecomponent.h",
+            "c:\\ue 5.4.4\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\shapecomponent.generated.h",
+            "c:\\ue 5.4.4\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\capsulecomponent.generated.h",
+            "c:\\users\\osama\\downloads\\unreal-engine-5-practice\\unrealpractice\\intermediate\\build\\win64\\unrealeditor\\inc\\unrealpractice\\uht\\xpcharacter.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

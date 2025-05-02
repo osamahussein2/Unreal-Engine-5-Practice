@@ -81,6 +81,9 @@
     <ClCompile Include="..\..\Source\UnrealPractice\Private\SpawnBox.cpp">
       <Filter>Source\UnrealPractice\Private</Filter>
     </ClCompile>
+    <ClCompile Include="..\..\Source\UnrealPractice\Private\XPCharacter.cpp">
+      <Filter>Source\UnrealPractice\Private</Filter>
+    </ClCompile>
     <ClCompile Include="..\..\Source\UnrealPractice\Private\XPPawn.cpp">
       <Filter>Source\UnrealPractice\Private</Filter>
     </ClCompile>
@@ -106,6 +109,9 @@
       <Filter>Source\UnrealPractice\Public</Filter>
     </ClInclude>
     <ClInclude Include="..\..\Source\UnrealPractice\Public\SpawnBox.h">
+      <Filter>Source\UnrealPractice\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\UnrealPractice\Public\XPCharacter.h">
       <Filter>Source\UnrealPractice\Public</Filter>
     </ClInclude>
     <ClInclude Include="..\..\Source\UnrealPractice\Public\XPPawn.h">
