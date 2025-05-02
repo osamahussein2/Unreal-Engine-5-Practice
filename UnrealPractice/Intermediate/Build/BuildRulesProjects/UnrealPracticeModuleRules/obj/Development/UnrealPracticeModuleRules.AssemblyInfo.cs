@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("UnrealPracticeModuleRules")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Development")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eb4fa49e4c75621798fa9a2b6b0f5898409e149e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f6ecfa04c296189aab50d0f7425dbfdaf0170930")]
 [assembly: System.Reflection.AssemblyProductAttribute("UnrealPracticeModuleRules")]
 [assembly: System.Reflection.AssemblyTitleAttribute("UnrealPracticeModuleRules")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
