@@ -517,11 +517,19 @@
       <AdditionalIncludeDirectories>$(ClCompile_AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
       <ForcedIncludeFiles>$(ClCompile_ForcedIncludeFiles)</ForcedIncludeFiles>
     </ClCompile>
+    <ClCompile Include="..\..\Source\UnrealPractice\Private\ReverseTimeComponent.cpp">
+      <AdditionalIncludeDirectories>$(ClCompile_AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <ForcedIncludeFiles>$(ClCompile_ForcedIncludeFiles)</ForcedIncludeFiles>
+    </ClCompile>
     <ClCompile Include="..\..\Source\UnrealPractice\Private\SpawnBox.cpp">
       <AdditionalIncludeDirectories>$(ClCompile_AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
       <ForcedIncludeFiles>$(ClCompile_ForcedIncludeFiles)</ForcedIncludeFiles>
     </ClCompile>
     <ClCompile Include="..\..\Source\UnrealPractice\Private\TimeManager.cpp">
+      <AdditionalIncludeDirectories>$(ClCompile_AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <ForcedIncludeFiles>$(ClCompile_ForcedIncludeFiles)</ForcedIncludeFiles>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\UnrealPractice\Private\TimeReversalGameMode.cpp">
       <AdditionalIncludeDirectories>$(ClCompile_AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
       <ForcedIncludeFiles>$(ClCompile_ForcedIncludeFiles)</ForcedIncludeFiles>
     </ClCompile>
@@ -539,8 +547,10 @@
     <ClInclude Include="..\..\Source\UnrealPractice\Public\MyCollectAcceptable.h"/>
     <ClInclude Include="..\..\Source\UnrealPractice\Public\MyCollectibleActor.h"/>
     <ClInclude Include="..\..\Source\UnrealPractice\Public\PracticeGameMode.h"/>
+    <ClInclude Include="..\..\Source\UnrealPractice\Public\ReverseTimeComponent.h"/>
     <ClInclude Include="..\..\Source\UnrealPractice\Public\SpawnBox.h"/>
     <ClInclude Include="..\..\Source\UnrealPractice\Public\TimeManager.h"/>
+    <ClInclude Include="..\..\Source\UnrealPractice\Public\TimeReversalGameMode.h"/>
     <ClInclude Include="..\..\Source\UnrealPractice\Public\XPCharacter.h"/>
     <ClInclude Include="..\..\Source\UnrealPractice\Public\XPPawn.h"/>
   </ItemGroup>

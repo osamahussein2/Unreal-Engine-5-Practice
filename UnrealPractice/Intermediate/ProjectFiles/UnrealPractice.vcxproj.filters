@@ -78,10 +78,16 @@
     <ClCompile Include="..\..\Source\UnrealPractice\Private\PracticeGameMode.cpp">
       <Filter>Source\UnrealPractice\Private</Filter>
     </ClCompile>
+    <ClCompile Include="..\..\Source\UnrealPractice\Private\ReverseTimeComponent.cpp">
+      <Filter>Source\UnrealPractice\Private</Filter>
+    </ClCompile>
     <ClCompile Include="..\..\Source\UnrealPractice\Private\SpawnBox.cpp">
       <Filter>Source\UnrealPractice\Private</Filter>
     </ClCompile>
     <ClCompile Include="..\..\Source\UnrealPractice\Private\TimeManager.cpp">
+      <Filter>Source\UnrealPractice\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\UnrealPractice\Private\TimeReversalGameMode.cpp">
       <Filter>Source\UnrealPractice\Private</Filter>
     </ClCompile>
     <ClCompile Include="..\..\Source\UnrealPractice\Private\XPCharacter.cpp">
@@ -111,10 +117,16 @@
     <ClInclude Include="..\..\Source\UnrealPractice\Public\PracticeGameMode.h">
       <Filter>Source\UnrealPractice\Public</Filter>
     </ClInclude>
+    <ClInclude Include="..\..\Source\UnrealPractice\Public\ReverseTimeComponent.h">
+      <Filter>Source\UnrealPractice\Public</Filter>
+    </ClInclude>
     <ClInclude Include="..\..\Source\UnrealPractice\Public\SpawnBox.h">
       <Filter>Source\UnrealPractice\Public</Filter>
     </ClInclude>
     <ClInclude Include="..\..\Source\UnrealPractice\Public\TimeManager.h">
+      <Filter>Source\UnrealPractice\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\UnrealPractice\Public\TimeReversalGameMode.h">
       <Filter>Source\UnrealPractice\Public</Filter>
     </ClInclude>
     <ClInclude Include="..\..\Source\UnrealPractice\Public\XPCharacter.h">

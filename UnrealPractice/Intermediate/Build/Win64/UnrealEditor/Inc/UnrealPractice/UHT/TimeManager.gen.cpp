@@ -174,8 +174,8 @@ struct Z_Construct_UClass_ATimeManager_Statics
 	static const UECodeGen_Private::FClassParams ClassParams;
 };
 const UECodeGen_Private::FFloatPropertyParams Z_Construct_UClass_ATimeManager_Statics::NewProp_currentTimeFactor = { "currentTimeFactor", nullptr, (EPropertyFlags)0x0020080000000014, UECodeGen_Private::EPropertyGenFlags::Float, RF_Public|RF_Transient|RF_MarkAsNative, nullptr, nullptr, 1, STRUCT_OFFSET(ATimeManager, currentTimeFactor), METADATA_PARAMS(UE_ARRAY_COUNT(NewProp_currentTimeFactor_MetaData), NewProp_currentTimeFactor_MetaData) };
-const UECodeGen_Private::FFloatPropertyParams Z_Construct_UClass_ATimeManager_Statics::NewProp_normalTimeFactor = { "normalTimeFactor", nullptr, (EPropertyFlags)0x0020080000000004, UECodeGen_Private::EPropertyGenFlags::Float, RF_Public|RF_Transient|RF_MarkAsNative, nullptr, nullptr, 1, STRUCT_OFFSET(ATimeManager, normalTimeFactor), METADATA_PARAMS(UE_ARRAY_COUNT(NewProp_normalTimeFactor_MetaData), NewProp_normalTimeFactor_MetaData) };
-const UECodeGen_Private::FFloatPropertyParams Z_Construct_UClass_ATimeManager_Statics::NewProp_reverseTimeFactor = { "reverseTimeFactor", nullptr, (EPropertyFlags)0x0020080000000004, UECodeGen_Private::EPropertyGenFlags::Float, RF_Public|RF_Transient|RF_MarkAsNative, nullptr, nullptr, 1, STRUCT_OFFSET(ATimeManager, reverseTimeFactor), METADATA_PARAMS(UE_ARRAY_COUNT(NewProp_reverseTimeFactor_MetaData), NewProp_reverseTimeFactor_MetaData) };
+const UECodeGen_Private::FFloatPropertyParams Z_Construct_UClass_ATimeManager_Statics::NewProp_normalTimeFactor = { "normalTimeFactor", nullptr, (EPropertyFlags)0x0010000000000005, UECodeGen_Private::EPropertyGenFlags::Float, RF_Public|RF_Transient|RF_MarkAsNative, nullptr, nullptr, 1, STRUCT_OFFSET(ATimeManager, normalTimeFactor), METADATA_PARAMS(UE_ARRAY_COUNT(NewProp_normalTimeFactor_MetaData), NewProp_normalTimeFactor_MetaData) };
+const UECodeGen_Private::FFloatPropertyParams Z_Construct_UClass_ATimeManager_Statics::NewProp_reverseTimeFactor = { "reverseTimeFactor", nullptr, (EPropertyFlags)0x0010000000000005, UECodeGen_Private::EPropertyGenFlags::Float, RF_Public|RF_Transient|RF_MarkAsNative, nullptr, nullptr, 1, STRUCT_OFFSET(ATimeManager, reverseTimeFactor), METADATA_PARAMS(UE_ARRAY_COUNT(NewProp_reverseTimeFactor_MetaData), NewProp_reverseTimeFactor_MetaData) };
 const UECodeGen_Private::FPropertyParamsBase* const Z_Construct_UClass_ATimeManager_Statics::PropPointers[] = {
 	(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_ATimeManager_Statics::NewProp_currentTimeFactor,
 	(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_ATimeManager_Statics::NewProp_normalTimeFactor,
@@ -222,10 +222,10 @@ ATimeManager::~ATimeManager() {}
 struct Z_CompiledInDeferFile_FID_Users_osama_Downloads_Unreal_Engine_5_Practice_UnrealPractice_Source_UnrealPractice_Public_TimeManager_h_Statics
 {
 	static constexpr FClassRegisterCompiledInInfo ClassInfo[] = {
-		{ Z_Construct_UClass_ATimeManager, ATimeManager::StaticClass, TEXT("ATimeManager"), &Z_Registration_Info_UClass_ATimeManager, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(ATimeManager), 1277155422U) },
+		{ Z_Construct_UClass_ATimeManager, ATimeManager::StaticClass, TEXT("ATimeManager"), &Z_Registration_Info_UClass_ATimeManager, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(ATimeManager), 1211466442U) },
 	};
 };
-static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_osama_Downloads_Unreal_Engine_5_Practice_UnrealPractice_Source_UnrealPractice_Public_TimeManager_h_3833972061(TEXT("/Script/UnrealPractice"),
+static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_osama_Downloads_Unreal_Engine_5_Practice_UnrealPractice_Source_UnrealPractice_Public_TimeManager_h_2052216762(TEXT("/Script/UnrealPractice"),
 	Z_CompiledInDeferFile_FID_Users_osama_Downloads_Unreal_Engine_5_Practice_UnrealPractice_Source_UnrealPractice_Public_TimeManager_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_osama_Downloads_Unreal_Engine_5_Practice_UnrealPractice_Source_UnrealPractice_Public_TimeManager_h_Statics::ClassInfo),
 	nullptr, 0,
 	nullptr, 0);

@@ -31,10 +31,11 @@ protected:
 	UPROPERTY(BlueprintReadOnly)
 	float currentTimeFactor = 1.0f; // Current actie factor of time
 
+public:
 	// Magic time values
-	UPROPERTY(BlueprintReadWrite)
+	UPROPERTY(EditAnywhere, BlueprintReadWrite)
 	float normalTimeFactor = 1.0f;
 
-	UPROPERTY(BlueprintReadWrite)
+	UPROPERTY(EditAnywhere, BlueprintReadWrite)
 	float reverseTimeFactor = -3.0f;
 };
