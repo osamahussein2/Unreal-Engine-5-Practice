@@ -9,17 +9,16 @@
 			"Type": "Runtime",
 			"LoadingPhase": "Default",
 			"AdditionalDependencies": [
-				"Engine"
+				"Engine",
+				"CoreUObject"
 			]
 		},
-
 		{
 			"Name": "UnrealPracticeEditor",
 			"Type": "Editor",
 			"LoadingPhase": "PostEngineInit"
 		}
 	],
-
 	"Plugins": [
 		{
 			"Name": "ModelingToolsEditorMode",

@@ -87,6 +87,9 @@
     <ClCompile Include="..\..\Source\UnrealPractice\Private\TimeManager.cpp">
       <Filter>Source\UnrealPractice\Private</Filter>
     </ClCompile>
+    <ClCompile Include="..\..\Source\UnrealPractice\Private\TimepointBase.cpp">
+      <Filter>Source\UnrealPractice\Private</Filter>
+    </ClCompile>
     <ClCompile Include="..\..\Source\UnrealPractice\Private\TimeReversalGameMode.cpp">
       <Filter>Source\UnrealPractice\Private</Filter>
     </ClCompile>
@@ -124,6 +127,9 @@
       <Filter>Source\UnrealPractice\Public</Filter>
     </ClInclude>
     <ClInclude Include="..\..\Source\UnrealPractice\Public\TimeManager.h">
+      <Filter>Source\UnrealPractice\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\UnrealPractice\Public\TimepointBase.h">
       <Filter>Source\UnrealPractice\Public</Filter>
     </ClInclude>
     <ClInclude Include="..\..\Source\UnrealPractice\Public\TimeReversalGameMode.h">
