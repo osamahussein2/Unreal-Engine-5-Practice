@@ -7,6 +7,9 @@
         "Includes": [
             "c:\\users\\osama\\downloads\\unreal-engine-5-practice\\unrealpractice\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\unrealpractice\\definitions.unrealpractice.h",
             "c:\\users\\osama\\downloads\\unreal-engine-5-practice\\unrealpractice\\source\\unrealpractice\\public\\timemanager.h",
+            "c:\\ue 5.4.4\\ue_5.4\\engine\\source\\runtime\\geometrycore\\public\\mathutil.h",
+            "c:\\ue 5.4.4\\ue_5.4\\engine\\source\\runtime\\geometrycore\\public\\geometrybase.h",
+            "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.38.33130\\include\\cmath",
             "c:\\users\\osama\\downloads\\unreal-engine-5-practice\\unrealpractice\\intermediate\\build\\win64\\unrealeditor\\inc\\unrealpractice\\uht\\timemanager.generated.h"
         ],
         "ImportedModules": [],

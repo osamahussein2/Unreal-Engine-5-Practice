@@ -23,7 +23,7 @@ void EmptyLinkFunctionForGeneratedCodeUnrealPractice_init() {}
 				SingletonFuncArray,
 				UE_ARRAY_COUNT(SingletonFuncArray),
 				PKG_CompiledIn | 0x00000000,
-				0xF7AA3338,
+				0x05772EB7,
 				0x1AD571F3,
 				METADATA_PARAMS(0, nullptr)
 			};
@@ -31,5 +31,5 @@ void EmptyLinkFunctionForGeneratedCodeUnrealPractice_init() {}
 		}
 		return Z_Registration_Info_UPackage__Script_UnrealPractice.OuterSingleton;
 	}
-	static FRegisterCompiledInInfo Z_CompiledInDeferPackage_UPackage__Script_UnrealPractice(Z_Construct_UPackage__Script_UnrealPractice, TEXT("/Script/UnrealPractice"), Z_Registration_Info_UPackage__Script_UnrealPractice, CONSTRUCT_RELOAD_VERSION_INFO(FPackageReloadVersionInfo, 0xF7AA3338, 0x1AD571F3));
+	static FRegisterCompiledInInfo Z_CompiledInDeferPackage_UPackage__Script_UnrealPractice(Z_Construct_UPackage__Script_UnrealPractice, TEXT("/Script/UnrealPractice"), Z_Registration_Info_UPackage__Script_UnrealPractice, CONSTRUCT_RELOAD_VERSION_INFO(FPackageReloadVersionInfo, 0x05772EB7, 0x1AD571F3));
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
